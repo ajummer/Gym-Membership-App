@@ -1,6 +1,5 @@
 
-# Gym Membership Manager is a practical solution for gym owners to handle memberships, track workout sessions, and manage subscriptions effortlessly. It offers an intuitive interface.
-
+# Gym Membership Manager is a practical solution I developed for a local gym, enabling them to easily manage memberships, track workout sessions, and handle subscriptions. It features an intuitive interface designed to simplify the day-to-day operations of gym management.
 ## Try It Out https://gym-membership-app-pk1n.vercel.app/
  - Username : admin@gmail.com
  - Password : admin123
